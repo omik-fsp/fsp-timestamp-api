@@ -1,0 +1,12 @@
+.is-a-test {
+    background-color: pink;
+}
+
+pre {
+    background: none !important;
+}
+
+code {
+    background-color: rgba(187, 187, 187, 0.3) !important;
+    color: hsl(0, 0%, 96%);
+}
